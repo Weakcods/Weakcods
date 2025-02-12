@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm passionate about software development
 - ⚡ Fun fact: **I love You**
 
 ---
+## My GitHub Streak Stats 🌟
+
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Weakcods&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Stats & Trophies
 
