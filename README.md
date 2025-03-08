@@ -6,9 +6,8 @@
 
 - 🌱 I’m currently learning **Next.js**.
 - ⚡ Fun fact: **I love You**
+<br><br>
 
-  ---
-##  My Tools & Language
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" />
@@ -23,23 +22,27 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="45" />
   <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="45" />
 </div>
+<br><br>
 
  ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weakcods&layout=compact&langs_count=8&theme=radical)
----
+ 
+<br><br>
 ## Streak Stats 
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Weakcods&theme=dark)](https://git.io/streak-stats)
+
+<br><br>
 
 ##  GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weakcods&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-___
-
+<br><br>
 ## Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Weakcods&theme=tokyonight)
 
 <br><br>
+
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
