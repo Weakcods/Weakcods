@@ -24,18 +24,19 @@
 </div>
 <br><br>
 
- ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weakcods&layout=compact&langs_count=8&theme=radical)
- 
-<br><br>
+
 ## Streak Stats 
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Weakcods&theme=dark)](https://git.io/streak-stats)
 
 <br><br>
 
-##  GitHub Stats 
+##  My Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weakcods&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<br><br>
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weakcods&layout=compact&langs_count=8&theme=radical)
 
 <br><br>
 ## Trophies
