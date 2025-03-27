@@ -22,6 +22,8 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="45" />
   <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="45" />
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=pycharm,figma,postman,supabase,vite,webstorm,npm,netlify,nextjs,git,bash)](https://skillicons.dev)
 <br><br>
 
 
