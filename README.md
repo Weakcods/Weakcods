@@ -36,9 +36,6 @@
 <br><br>
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weakcods&layout=compact&langs_count=8&theme=radical)
 
-<br><br>
-## Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Weakcods&theme=tokyonight)
 
 <br><br>
 
